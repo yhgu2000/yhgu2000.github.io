@@ -28,34 +28,9 @@ order: 7
 
 - <i class="fas fa-brain"></i> Research Interest: Compiler, Runtime, Virtual Machine
 
-## Projects
+---
 
-### YatCC-OL: Online Programming, Development, and Experimenting Platform for YatCC (2025-)
-
-- An cloud development platform based on Container-as-a-Service (CaaS), centered around an online VSCode experience.
-- Enhanced with AI large language models such as DeepSeek, serving teaching for experiment courses like YatCC at Sun Yat-sen University.
-- YatCC project homepage: <https://yatcc-ai.com>
-- Related coverage:
-  - School of Computer Science: <https://mp.weixin.qq.com/s/UiXcaOTAOure8YTmyMWJ8Q>
-  - Academic Affairs Office: <https://mp.weixin.qq.com/s/JgbO9i6qM3EPF06_v9tsnw>
-- Served as the **Chief Engineer**, fully responsible for system architecture design, project schedule management, and overseeing operations and development.
-
-> ![Demo](https://yatcc-ai.com/images/start-codefix-gen.gif)
-
-### SYsU-lang2: The Compiler Experiment Course of Sun Yat-sen University (2023-2024)
-
-- <https://github.com/arcsysu/SYsU-lang>
-- Has been merged into the YatCC project after later iterations.
-- **Chief creator**, responsible for the refactoring and overall design of the v2.0 version.
-
-### GSoC 2023 - LLVM Project (2023)
-
-- <https://summerofcode.withgoogle.com/archive/2023/projects/ghJRTsUJ>
-- Add a `-show-directory-coverage` option to the `llvm-cov` tool to generate hierarchical coverage reports, better supporting code coverage analysis for large projects.
-
-## Publish
-
-- `WWW'2025 (CCF A)` Gu, Yuhao, et al. "ORFA: Exploring WebAssembly as a Turing Complete Query Language for Web APIs." _THE WEB CONFERENCE 2025_. 2025.
+<embed src="/assets/cv_en.pdf" type="application/pdf" width="100%" height="500px" />
 
 ---
 

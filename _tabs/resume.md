@@ -28,38 +28,9 @@ order: 6
 
 - <i class="fas fa-brain"></i> 研究方向：编译器、运行时、虚拟机
 
-## 项目
+---
 
-### YatCC-OL: YatCC 在线编程开发和实验教学平台 (2025-)
-
-- 基于容器即服务平台的、以在线 VSCode 为体验核心的云开发平台。
-- 加持了 DeepSeek 等 AI 大模型辅助，服务于中山大学 YatCC 等课程的实验教学。
-- YatCC 项目主页： <https://yatcc-ai.com>
-- 相关报道
-  - 学院： <https://mp.weixin.qq.com/s/UiXcaOTAOure8YTmyMWJ8Q>
-  - 教务部： <https://mp.weixin.qq.com/s/JgbO9i6qM3EPF06_v9tsnw>
-- **总工程师**，全面负责系统的设计架构、把控项目进度、监督运维和开发。
-
-> ![演示](https://yatcc-ai.com/images/start-codefix-gen.gif)
-
-### SYsU-lang2：中山大学编译原理课程实验 (2023-2024)
-
-- <https://github.com/arcsysu/SYsU-lang>
-- 经过迭代发展，目前已并入 YatCC 项目。
-- **项目主创**，负责实验 v2.0 版本的重构和整体设计。
-
-### GSoC 2023 - LLVM Project (2023)
-
-- <https://summerofcode.withgoogle.com/archive/2023/projects/ghJRTsUJ>
-- 为 `llvm-cov` 工具添加一个 `-show-directory-coverage` 选项以生成层次化的覆盖率报告，从而更好地支持大型项目的代码覆盖率分析。
-
-## 出版
-
-- `WWW'2025 (CCF A)` Gu, Yuhao, et al. "ORFA: Exploring WebAssembly as a Turing Complete Query Language for Web APIs." _THE WEB CONFERENCE 2025_. 2025.
-
-<!-- ## 学历
-
-## 其它 -->
+<embed src="/assets/cv.pdf" type="application/pdf" width="100%" height="500px" />
 
 ---
 
